@@ -1,0 +1,11 @@
+libraries used & their purpose
+
+NumPy- Numerical calculations on audio data
+Pandas- Working with transcript CSV files
+SoundFile- Reading audio files
+PyArrow- Writing Parquet output
+Pytest- Testing our Python code
+PyYAML- Reading configuration files
+
+activate venv
+source .venv/bin/activate
