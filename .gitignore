@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# IDE
+.vscode/
+
+# Generated files
+reports/*
+!reports/.gitkeep
+
+# Audio data
+data/sample_audio/*
+!data/sample_audio/.gitkeep
